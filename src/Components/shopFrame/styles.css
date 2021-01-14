@@ -1,0 +1,20 @@
+.shop {
+    overflow-y: scroll;
+    height: max-content;
+    margin-top: 23px;
+}
+
+.margin {
+    margin: 2%;
+}
+
+.shopButton {
+    background-image: -moz-linear-gradient( 0deg, rgb(232,0,16) 0%, rgb(255,206,8) 100%) !important;
+    background-image: -webkit-linear-gradient( 0deg, rgb(232,0,16) 0%, rgb(255,206,8) 100%) !important;
+    background-image: -ms-linear-gradient( 0deg, rgb(232,0,16) 0%, rgb(255,206,8) 100%) !important;
+    height: 55px;
+    width: inherit;
+    margin-top: 16px !important;
+    margin-left: 2% !important;
+    margin-bottom: 2% !important;
+}

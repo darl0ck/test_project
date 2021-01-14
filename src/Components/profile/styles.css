@@ -1,0 +1,32 @@
+.gridBlock {
+    display: flex;
+}
+
+.emailList2FA {
+    padding-left: 1em;
+    overflow-y: scroll;
+    height: 6em;
+    width: 16em;
+    line-height: 13px; 
+}
+
+  
+
+.passTextFields {
+    margin-left: 1em;
+}
+
+.marginTop {
+    margin-top: 2em;
+}
+
+.buttonColor {
+        background-image: -moz-linear-gradient( 0deg, rgb(232,0,16) 0%, rgb(255,206,8) 100%);
+        background-image: -webkit-linear-gradient( 0deg, rgb(232,0,16) 0%, rgb(255,206,8) 100%);
+        background-image: -ms-linear-gradient( 0deg, rgb(232,0,16) 0%, rgb(255,206,8) 100%);
+        width: 180px;
+}
+
+.marginTop Paper {
+    margin: 10%;
+}

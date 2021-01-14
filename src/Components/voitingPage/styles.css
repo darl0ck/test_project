@@ -1,0 +1,13 @@
+.voitingTab {
+    overflow-y: scroll;
+    height: 113vh;
+    width: 49%;
+    /* margin-left: 2em; */
+}
+
+.voteInfo {
+    overflow-y: scroll;
+    height: 113vh;
+    width: 49%;
+    margin-left: auto;
+}

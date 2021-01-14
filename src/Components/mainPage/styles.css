@@ -1,0 +1,12 @@
+.sizeLeft {
+    max-width: 28%;
+}
+
+.sizeCenter {
+  max-width: 52%;
+}
+
+.sizeRight{
+  max-width: 25%;
+  max-height: 50%;
+}

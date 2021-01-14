@@ -1,0 +1,8 @@
+.tableNew {
+    margin: 3%;
+}
+
+.tableNew > tr th {
+    width: 1%;
+    overflow-x: hidden;
+}
