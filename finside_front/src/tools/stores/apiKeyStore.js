@@ -12,8 +12,8 @@ class ApiKeyStore {
 
   constructor() {
     this.rows = [
-        createData('s12s534371251agdv1263v8f5bb9b', true, 6.0, 24, 4.0),
-        createData('asdwf2g24gh34h54hj4jh3g2f', false, 6.0, 24, 4.0),
+        createData('APIKEY', true, 6.0, 24, 4.0),
+        createData('APIKEY', false, 6.0, 24, 4.0),
 ];
   }
 
